@@ -1,0 +1,5 @@
+这是静态网页目录.
+请访问: http://example.com/sta/index/
+
+This is a directory for static html pages.
+Please view: http://example.com/sta/index/
